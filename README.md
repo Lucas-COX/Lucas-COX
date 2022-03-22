@@ -8,10 +8,11 @@ My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.
 
 <details>
   <summary><h4>:bulb: Projects</h4></summary>
-  <div>Here are some of the projects I've been working on:</br>
+  <div>Here are some of the projects I've been working on :</br>
   ● <a href="https://github.com/Lucas-COX/Wolfram">Wolfram</a></br>
   ● <a href="https://github.com/Lucas-COX/epitech-jam">Road to Success</a></br>
   ● <a href="https://github.com/Shorssaud/EpiExtract">EpiExtract (in development)</a></br>
+  ● <a href="https://github.com/ygodeckshopper/platform">YGODeckShopper (in development)</a></br>
    </div>
 </details>
 <details>
