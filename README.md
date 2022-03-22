@@ -8,19 +8,21 @@ My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.
 
 <details>
   <summary><h4>:bulb: Projects</h4></summary>
-    <pre>I do not have much work to show you except some of my school projects,
-but I'd love to collaborate and get some more projects to show !</pre>
+  <div>Here are some of the projects I've been working on:</br>
+  ● <a href="https://github.com/Lucas-COX/Wolfram">Wolfram</a></br>
+  ● <a href="https://github.com/Lucas-COX/epitech-jam">Road to Success</a></br>
+  ● <a href="https://github.com/Shorssaud/EpiExtract">EpiExtract (in development)</a></br>
+   </div>
 </details>
 <details>
   <summary><h4>:computer: Interests<h4></summary>
-  <pre>I am really interested in web and functional technologies.
-ReactJS and Haskell are the two I've been working the most on for now.
-Those two differ completely, still they both interest me equally !</pre>
+    <div>I am really interested in web 🌐 and functional 🔢 technologies.</br>
+    ReactJS and Haskell are the two I've been working the most on for now.</br>
+    Those two differ completely, still they both interest me equally !</br>
+    </div>
 </details>
-
-<h4>:handshake: Do not hesitate to reach me if you need a collaborator on a project that uses one of those technologies !</h4>
  
-<h4> Here's how to :</h4>
+<h4> Here's how to reach me :</h4>
 
 :mailbox: : lucas.cox.dev@gmail.com\
 :mailbox: : lucas.cox@epitech.eu
