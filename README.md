@@ -8,18 +8,16 @@ My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.
 
 <details>
   <summary><h4>:bulb: Projects</h4></summary>
-  <div>Here are some of the projects I've been working on :</br>
+  <div>Here are some of the projects I've been working on this year :</br>
   ● <a href="https://github.com/Lucas-COX/Wolfram">Wolfram</a></br>
-  ● <a href="https://github.com/Lucas-COX/epitech-jam">Road to Success</a></br>
-  ● <a href="https://github.com/ygodeckshopper/platform">YGODeckShopper (in development)</a></br>
-  ● <a href="https://github.com/Saejina/Sae">Sae</a></br>
+  ● <a href="https://github.com/Lucas-COX/ImageCompressor">Image Compressor</a></br>
+  ● <a href="https://github.com/Lucas-COX/AREA">Area</a></br>
    </div>
 </details>
 <details>
   <summary><h4>:computer: Interests<h4></summary>
-    <div>I am really interested in web 🌐 and functional 🔢 technologies.</br>
-    ReactJS and Haskell are the two I've been working the most on for now.</br>
-    Those two differ completely, still they both interest me equally !</br>
+    <div>I am really interested in functional 🔢 technologies and artificial intelligence development 🤖.</br>
+    Python and Haskell are the two languages I'm working on the most for now.</br>
     </div>
 </details>
  
