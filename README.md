@@ -8,23 +8,22 @@ I am actively looking for an work/study opportunity in any AI related domain.
 <details>
   <summary><h4>:bulb: Projects</h4></summary>
   <div>Here are some of the projects I've been working on this year :</br>
-  ● <a href="https://github.com/Lucas-COX/Wolfram">Wolfram</a></br>
-  ● <a href="https://github.com/Lucas-COX/ImageCompressor">Image Compressor</a></br>
-  ● <a href="https://github.com/Lucas-COX/AREA">Area</a></br>
+  ● <a href="https://github.com/Lucas-COX/Wolfram">Wolfram</a> - Haskell implementation of a cellular automata</br>
+  ● <a href="https://github.com/Lucas-COX/ImageCompressor">Image Compressor</a> - Haskell implementation of the k-means algorithm</br>
+  ● <a href="https://github.com/Lucas-COX/AREA">Area</a> - Action REAction application that links APIs together</br>
    </div>
 </details>
 <details>
   <summary><h4>:computer: Interests<h4></summary>
-    <div>I am really interested in functional 🔢 technologies and artificial intelligence development 🤖.</br>
-    Python and Haskell are the two languages I'm working on the most for now.</br>
-    </div>
+    ● Artifical Intelligence development 🤖</br>
+    ● Functional development 💻</br>
+    ● Machine Learning 🧠</br>
+    
 </details>
  
 <h4> Here's how to reach me :</h4>
 
 :mailbox: : lucas.cox.dev@gmail.com\
-:mailbox: : lucas.cox@epitech.eu
-
 
 ## My statistics
 
