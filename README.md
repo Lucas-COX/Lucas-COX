@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.
+My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.\
+I am actively looking for an work/study opportunity in any AI related domain.
 
 </br>
 
