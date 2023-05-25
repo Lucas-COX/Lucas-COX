@@ -23,7 +23,7 @@ I am actively looking for an work/study opportunity in any AI related domain.
  
 <h4> Here's how to reach me :</h4>
 
-:mailbox: : lucas.cox.dev@gmail.com\
+:mailbox: : lucas.cox.dev@gmail.com
 
 ## My statistics
 
