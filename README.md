@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Lucas Cox, I am currently studying at Epitech IT in Lyon.\
-I am actively looking for an work/study opportunity in any AI related domain.
+My name is Lucas Cox, I am currently studying at EPSI in Lyon.\
+I am passionated by low level and functional programming and currently exploring the world of AI.
 
 ## About me
 
