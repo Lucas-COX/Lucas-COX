@@ -15,9 +15,9 @@ I am passionated by low level and functional programming and currently exploring
 </details>
 <details>
   <summary><h4>:computer: Interests<h4></summary>
-    ● Artifical Intelligence development 🤖</br>
+    ● Low-level languages 💾</br>
+    ● Artifical Intelligence 🤖</br>
     ● Functional development 💻</br>
-    ● Machine Learning 🧠</br>
     
 </details>
  
